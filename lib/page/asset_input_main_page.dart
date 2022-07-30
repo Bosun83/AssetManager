@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import '../page/debtInputPage.dart';
-import '../page/stockInputPage.dart';
-import '../page/realStateInput.dart';
-import '../page/depositInputPage.dart';
+import '../page/debt_Input_page.dart';
+import '../page/stock_input_page.dart';
+import '../page/realestate_input_page.dart';
+import '../page/deposit_input_page.dart';
 
 class AssetInputPage extends StatefulWidget {
   @override

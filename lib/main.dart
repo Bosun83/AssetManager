@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import '../widget/appBarPage.dart';
-import '../widget/bodyGroupedListView.dart';
-import '../widget/bottomPage.dart';
+import '../widget/appbar.dart';
+import '../widget/body_grouped_listview.dart';
+import '../widget/bottom_navigation.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
