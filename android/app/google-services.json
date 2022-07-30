@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383305759965",
+    "project_id": "showyourvision-8419d",
+    "storage_bucket": "showyourvision-8419d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383305759965:android:ab3f2562e83305f8766f34",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383305759965-4nacqrts8ces57i92b722k0b42n4i77t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xwYOgLGToiIsX4_T2I4SHQK5mi_NNlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383305759965-4nacqrts8ces57i92b722k0b42n4i77t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
