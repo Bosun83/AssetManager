@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     return Scaffold(
       appBar: appBarPage(context),
-      drawer: const Drawer(),
+      drawer: Drawer(),
       body: bodyGroupedListView(),
       bottomNavigationBar: bottomPage(),
     );
